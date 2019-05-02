@@ -1,2 +1,23 @@
+def parrot(Squawk)
+end
+
+def parrot(phrase = Squawk)
+  phrase = "parrot"
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
